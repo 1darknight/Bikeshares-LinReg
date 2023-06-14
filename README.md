@@ -19,6 +19,14 @@ This project is a programming assignment wherein I built a multiple linear regre
 
 
 ## Conclusions
+Final R Squared:
+- Train set: 0.82
+- Test set: 0.84
+
+Final Adjusted R Squared:
+- Train set: 0.67
+- Test set: 0.69
+
 After doing the analysis, which contains EDA, Feature Selection, some categorical variables are found to have some impacts on demand of bike sharing:
 
 Categorical columns that have positive impacts on demand are:
@@ -39,3 +47,4 @@ The top 3 features that impacts 'label' column (demand of shared bikes) are:
 - temp : coefficients of 3060.417 
 - weathersit_Lightsnow: coefficients of -2544.739 
 - yr_2019: coefficients of 2101.623 
+
