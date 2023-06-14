@@ -3,7 +3,7 @@ This project is a programming assignment wherein I built a multiple linear regre
 
 ## Information
 Name: Le Thuc Anh
-Email: thucanhle149@gmial.com
+Email: thucanhle149@gmail.com
 
 ## Table of Contents
 * [General Info](#general-information)
