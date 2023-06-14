@@ -35,3 +35,7 @@ Columns that have negative impacts on demand are:
 
 Combined with the columns has positive impacts, it seems that people use sharing bike less in Spring and Winter and when the weather is not encouraging (strong wind, snow, mist which reduce visibility)
 
+The top 3 features that impacts 'label' column (demand of shared bikes) are:
+- temp : coefficients of 3060.417 
+- weathersit_Lightsnow: coefficients of -2544.739 
+- yr_2019: coefficients of 2101.623 
