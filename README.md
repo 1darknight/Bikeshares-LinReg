@@ -1,11 +1,13 @@
 # Bike Shares project
 This project is a programming assignment wherein I built a multiple linear regression model for the prediction of demand for shared bikes
 
+## Information
+Name: Le Thuc Anh
+Email: thucanhle149@gmial.com
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Use Linear Regression to model the demand for shared bikes with the available independent variables
